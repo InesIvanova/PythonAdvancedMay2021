@@ -1,0 +1,55 @@
+# winner on a row
+Peter
+John
+X
+1
+4
+2
+5
+7
+6
+
+# winner on a col
+Peter
+John
+X
+1
+2
+4
+5
+7
+
+# winner on a diagonal
+Peter
+John
+X
+1
+4
+5
+6
+9
+
+# winner on second diagonal
+Peter
+John
+X
+3
+1
+5
+2
+7
+
+
+# no winner board is full
+Peter
+John
+X
+1
+4
+2
+5
+7
+8
+6
+3
+9
